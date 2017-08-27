@@ -1,0 +1,39 @@
+
+#main{
+padding-bottom: 20px;
+    align-content: center;
+}
+
+.head {
+	text-align: right;
+}
+
+.container {
+    width: 800px;
+}
+
+h1,h2{
+    color: #02b3e4;
+    font-family: 'Fjalla One', sans-serif;
+}
+h1{
+    padding-top: 30px
+}
+
+.img-responsive{
+    display:flex;
+    height: auto;
+    max-width: 100%;
+	  margin:0 auto;
+}
+#feature {
+	color: #7d97ad;
+    align-content: flex-start;
+}
+#smimage {
+	color: #2d3c49;
+}
+
+body{
+    background-color: greenyellow;
+}
